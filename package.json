@@ -1,0 +1,39 @@
+{
+  "name": "masking-tape",
+  "version": "0.0.0",
+  "description": "a tape harness with life-cycle hooks.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "keywords": [
+    "tape",
+    "test",
+    "setup",
+    "teardown",
+    "tap"
+  ],
+  "author": "Urban Airship",
+  "license": "APACHE-V2",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "contributors": [
+    "Andrew Winterman <andrew.winterman@urbanairship.com>"
+  ],
+  "dependencies": {
+    "tape": "^3.0.3",
+    "through": "^2.3.6"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urbanairship/masking-tape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/urbanairship/masking-tape/issues"
+  },
+  "homepage": "https://github.com/urbanairship/masking-tape"
+}
