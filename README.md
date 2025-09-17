@@ -1,4 +1,6 @@
 # Masking-Tape
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fmasking-tape.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fmasking-tape?ref=badge_shield)
+
 
 A [tape](https://npmjs.com/package/tape) test harness with "beforeEach",
 "afterEach", and "afterAll" lifecycle hooks. Also lets you add an identifying
@@ -95,3 +97,6 @@ Please see the [contributing guidelines](./CONTRIBUTING.md).
 ## License:
 
 [APACHE V2](./LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fmasking-tape.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fmasking-tape?ref=badge_large)
